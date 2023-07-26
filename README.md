@@ -6,7 +6,7 @@
 - Backend engineering using Python and its frameworks like Django, Flask, and RestAPI.
 - On the frontend side, I love working with JavaScript and frameworks such as React and Next.
 
-👯 I enjoy collaborating with upcoming startups and contributing to exciting projects.
+👯 I enjoy collaborating with startups and contributing to exciting projects.
 ⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills. Let's connect and create something awesome together! 😄
 📫 You can reach me through various channels:
 
