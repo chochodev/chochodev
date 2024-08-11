@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,css,tailwind,nextjs,git,github,html,js,postman,django,flask,figma,svelte,vite,vscode,materialui" />
   </a>
@@ -32,8 +32,8 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chochoprogrammer&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔥 &nbsp; My Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=preciousken&theme=dark&hide_border=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochoprogrammer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+[![](https://visitcount.itsvg.in/api?id=preciousken&icon=0&color=0)](https://visitcount.itsvg.in)
