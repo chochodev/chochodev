@@ -26,8 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,css,tailwind,nextjs,git,github,html,js,postman,django,figma,svelte,vite,vscode" />
-    <img src="./chakraui-icon.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,css,tailwind,nextjs,git,github,html,js,postman,django,flask,figma,svelte,vite,vscode,materialui" />
   </a>
 </p>
 
