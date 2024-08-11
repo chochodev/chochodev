@@ -6,16 +6,16 @@
 - Backend engineering using Python and its frameworks like Django, Flask, and RestAPI.
 - On the frontend side, I love working with JavaScript and frameworks such as Svelte, React, Next and React-Native.
 
-👯 I enjoy collaborating with startups and contributing to exciting projects.
-⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills. 
-😄 Let's connect and create something awesome together! 
+👯 I enjoy collaborating with startups and contributing to exciting projects. <br/>
+⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills.  <br/>
+😄 Let's connect and create something awesome together!  <br/>
 📫 You can reach me via:
 
-➤ [LinkedIn](https://www.linkedin.com/in/emmanuel-michael-728678217)
-➤ [WhatsApp](https://wa.me/2349039108667)
-➤ [X](https://twitter.com/chochodev)
-➤ [Telegram](https://t.me/chochodeveloper)
-➤ [Instagram](https://www.instagram.com/chochodev)
+➤ [LinkedIn](https://www.linkedin.com/in/emmanuel-michael-728678217) <br/>
+➤ [WhatsApp](https://wa.me/2349039108667) <br/>
+➤ [X](https://twitter.com/chochodev) <br/>
+➤ [Telegram](https://t.me/chochodeveloper) <br/>
+➤ [Instagram](https://www.instagram.com/chochodev) <br/>
 
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -27,10 +27,11 @@
 </p>
 
 ### Live Projects I worked on :
-➤ [Hive]()
-➤ [EdenFresh](https://erenfresh-deploy-002.onrender.com)
-➤ [WebWiz](https://webwiz.netlify.app)
-➤ [Portfolio](https://chochodev.netlify.app)
+
+➤ [Hive](https://oeventplanner.netlify.app) <br/>
+➤ [EdenFresh](https://erenfresh-deploy-002.onrender.com) <br/>
+➤ [WebWiz](https://webwiz.netlify.app) <br/>
+➤ [Portfolio](https://chochodev.netlify.app) <br/>
 
 ---
 
