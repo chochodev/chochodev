@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm a Emmanuel Michael:</h2>. A web developer with a passion for
-- Backend engineering using Python and its frameworks like Django, Flask, and RestAPI.
-- On the frontend side, I love working with JavaScript and frameworks such as Svelte, React, Next and React-Native.
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm a Emmanuel Michael.</h2>
+A web developer with a passion for:
+* Backend engineering using Python and its frameworks like Django, Flask, and RestAPI.
+* On the frontend side, I love working with JavaScript and frameworks such as Svelte, React, Next and React-Native.
 
 👯 I enjoy collaborating with startups and contributing to exciting projects. <br/>
 ⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills.  <br/>
