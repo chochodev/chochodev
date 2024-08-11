@@ -10,6 +10,7 @@
 👯 I enjoy collaborating with startups and contributing to exciting projects. <br/>
 ⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills.  <br/>
 😄 Let's connect and create something awesome together!  <br/>
+<p></p>
 📫 You can reach me via:
 
 ➤ [LinkedIn](https://www.linkedin.com/in/emmanuel-michael-728678217) <br/>
