@@ -7,20 +7,16 @@
 - On the frontend side, I love working with JavaScript and frameworks such as Svelte, React, Next and React-Native.
 
 👯 I enjoy collaborating with startups and contributing to exciting projects.
-⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills. Let's connect and create something awesome together! 😄
-📫 You can reach me through various channels:
+⚡ Fun Fact: I believe in continuous learning and always strive to improve my coding skills. 
+😄 Let's connect and create something awesome together! 
+📫 You can reach me via:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/emmanuel-michael-728678217">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://wa.me/2349039108667">
-    <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/MI_CHO_CHO?s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+➤ [LinkedIn](https://www.linkedin.com/in/emmanuel-michael-728678217)
+➤ [WhatsApp](https://wa.me/2349039108667)
+➤ [X](https://twitter.com/chochodev)
+➤ [Telegram](https://t.me/chochodeveloper)
+➤ [Instagram](https://www.instagram.com/chochodev)
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -29,6 +25,12 @@
     <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,css,tailwind,nextjs,git,github,html,js,postman,django,flask,figma,svelte,vite,vscode,materialui" />
   </a>
 </p>
+
+### Live Projects I worked on :
+➤ [Hive]()
+➤ [EdenFresh](https://erenfresh-deploy-002.onrender.com)
+➤ [WebWiz](https://webwiz.netlify.app)
+➤ [Portfolio](https://chochodev.netlify.app)
 
 ---
 
