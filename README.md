@@ -24,17 +24,9 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,,git,css,tailwind,nextjs,git,github,html,js,postman,django,figma,svelte,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,python,mysql,css,tailwind,nextjs,git,github,html,js,postman,django,figma,svelte,vite,vscode" />
     <img src="./chakraui-icon.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
   </a>
 </p>
