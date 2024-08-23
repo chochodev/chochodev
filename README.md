@@ -31,7 +31,7 @@
 ### Live Projects I worked on :
 
 ➤ [Hive](https://oeventplanner.netlify.app) <br/>
-➤ [EdenFresh](https://erenfresh-deploy-002.onrender.com) <br/>
+➤ [EdenFresh](https://karpos.onrender.com/) <br/>
 ➤ [WebWiz](https://webwiz.netlify.app) <br/>
 ➤ [Portfolio](https://chochodev.netlify.app) <br/>
 
