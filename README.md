@@ -38,14 +38,14 @@
 ---
 
 ### 🔥 &nbsp; My Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=chochodev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chochodev&theme=github-dark&hide_border=true)<br/>
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=chochodev&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
 </p>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chochodev&icon=0&color=0)](https://visitcount.itsvg.in)
-<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=chochodev&theme=github-dark" />
-
+<!--<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=chochodev&theme=github-dark" />
+-->
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chochodev&theme=dark)
