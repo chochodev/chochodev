@@ -49,6 +49,6 @@
 <!--<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=chochodev&theme=github-dark" />
 -->
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chochodev&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chochodev&theme=github_dark&border_color=39D353&title_color=39D353&icon_color=39D353)
 <br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chochodev&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chochodev&layout=compact&langs_count=8&hide=html&theme=github_dark&border_color=39D353&title_color=fff" />
