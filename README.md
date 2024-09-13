@@ -16,7 +16,7 @@
 ➤ [LinkedIn](https://www.linkedin.com/in/emmanuel-michael-728678217) <br/>
 ➤ [WhatsApp](https://wa.me/2349039108667) <br/>
 ➤ [X](https://twitter.com/chochodev) <br/>
-➤ [Telegram](https://t.me/chochodeveloper) <br/>
+➤ [Telegram](https://t.me/chochodeveloper) <br/> 
 ➤ [Instagram](https://www.instagram.com/chochodev) <br/>
 
 
