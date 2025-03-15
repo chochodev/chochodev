@@ -30,6 +30,7 @@
 
 ### Live Projects I worked on :
 
+➤ [LearnNaija](https://learnnaija.ng) <br/>
 ➤ [Hive](https://oeventplanner.netlify.app) <br/>
 ➤ [EdenFresh](https://karpos.onrender.com/) <br/>
 ➤ [WebWiz](https://webwiz.netlify.app) <br/>
