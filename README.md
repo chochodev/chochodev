@@ -32,10 +32,11 @@
 
 ➤ [LearnNaija](https://learnnaija.ng) <br/>
 ➤ [Wk-Stays](https://app.wkstays.co) <br/>
+➤ [Seat-Picker](https://seat-picker-docs.vercel.app) <br/>
 ➤ [Hive](https://oeventplanner.netlify.app) <br/>
 ➤ [EdenFresh](https://karpos.onrender.com/) <br/>
 ➤ [WebWiz](https://webwizd.netlify.app) <br/>
-➤ [Portfolio](https://chochodev.netlify.app) <br/>
+➤ [Portfolio](https://chochoportfolio.vercel.app) <br/>
 
 ---
 
